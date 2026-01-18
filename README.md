@@ -41,7 +41,8 @@
 sudo nmap -sSV 192.168.10.140
 ```
 
-![Nmap-Task 1-1](img/HW-13-1-1-1.png)
+<img width="676" height="445" alt="1" src="https://github.com/user-attachments/assets/b0f530c7-c0d6-4486-8b58-4024b5bab091" />
+
 
 `Какие сетевые службы в ней разрешены?`
 1. Веб-сервисы: 80/HTTP, 443/HTTPS, 8080/8181 — Альтернативные порты веб-серверов
@@ -53,11 +54,14 @@ sudo nmap -sSV 192.168.10.140
 
 `Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)`
 
-![Nmap-Task 1-2](img/HW-13-1-1-2.png)
+<img width="955" height="232" alt="2" src="https://github.com/user-attachments/assets/2c4f133b-0150-401a-93a9-bcd224b339d2" />
 
-![Nmap-Task 1-3](img/HW-13-1-1-3.png)
 
-![Nmap-Task 1-4](img/HW-13-1-1-4.png)
+<img width="954" height="281" alt="3" src="https://github.com/user-attachments/assets/a2730186-5217-427c-896d-d09c15c7efb7" />
+
+
+<img width="954" height="425" alt="4" src="https://github.com/user-attachments/assets/24243f5d-e399-4c6d-a35a-aa99430a8274" />
+
 
 
 ---
